@@ -22,8 +22,11 @@ Users could simply sign up on app and avail all the webinar hosting, advertising
 # Aim
 Our aim as a student was to learn the most by building an application that maximizes use of different technologies and services. 
 
-Frontend: React (Web), Flutter (Mobile), Redux, Typescript, Tailwind, Framer-Motion, MUI
+Frontend \
+React (Web), Flutter (Mobile), Redux, Typescript, Tailwind, Framer-Motion, MUI
 
-Backend: Node/Express, Socket.io (Chat), Livekit.io (Streaming SDK), Stripe API (payments) and MongoDB
+Backend \
+Node/Express, Socket.io (Chat), Livekit.io (Streaming SDK), Stripe API (payments) and MongoDB
 
-DevOps: Docker, docker-compose, tested working deployments on AWS EC2, and Railway
+DevOps \
+Docker, docker-compose, tested working deployments on AWS EC2, and Railway
