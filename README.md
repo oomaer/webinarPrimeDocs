@@ -22,11 +22,11 @@ Users could simply sign up on app and avail all the webinar hosting, advertising
 # Aim
 Our aim as a student was to learn the most by building an application that maximizes use of different technologies and services. 
 
-Frontend \
+__Frontend__ \
 React (Web), Flutter (Mobile), Redux, Typescript, Tailwind, Framer-Motion, MUI
 
-Backend \
+__Backend__ \
 Node/Express, Socket.io (Chat), Livekit.io (Streaming SDK), Stripe API (payments) and MongoDB
 
-DevOps \
+__DevOps__ \
 Docker, docker-compose, tested working deployments on AWS EC2, and Railway
